@@ -1,3 +1,3 @@
 # hello_world
 
-A sample repository for a classroom assignment, to help students learn Github commands
+A sample repository for writing Hello_World Program in Java
